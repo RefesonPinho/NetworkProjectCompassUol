@@ -45,5 +45,10 @@ Estagiario: Refeson dos Santos Pinho
 [Documentação Instalação Oracle Linux.pdf](https://github.com/RefesonPinho/SecondProjectCompassUol/files/9169147/Documentacao.Instalacao.Oracle.Linux.pdf)
 
 
-LINK da primeira atividade: 
+📝LINK da primeira atividade: 
 https://github.com/RefesonCompassUol
+
+📝Link da Apresentação:
+[Apresentação Final Sprint.pptx](https://github.com/RefesonPinho/SecondProjectCompassUol/files/9169383/Apresentacao.Final.Sprint.pptx)
+
+
