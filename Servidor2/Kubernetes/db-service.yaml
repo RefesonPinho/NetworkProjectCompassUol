@@ -12,3 +12,4 @@ spec:
     app: wordpress
     tier: mysql
   clusterIP: None
+  type: ClusterIP
