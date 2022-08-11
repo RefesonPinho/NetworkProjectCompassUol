@@ -1,5 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
+apiVersion: apps/v1
+kind: Deployment
 metadata:
   name: wordpress-mysql
   namespace: labwordpress
@@ -19,7 +21,7 @@ spec:
         tier: mysql
     spec:
       containers:
-      - image: mysql:latest
+      - image: mysql:5.6
         name: mysql
         env:
         - name: MYSQL_ROOT_PASSWORD
@@ -27,8 +29,6 @@ spec:
             secretKeyRef:
               name: mysql-pass
               key: password
-        - name: MYSQL_DATABASE
-          value: wordpress
         ports:
         - containerPort: 3308
           name: mysql
