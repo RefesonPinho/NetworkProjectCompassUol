@@ -8,8 +8,6 @@ metadata:
 spec:
   ports:
     - port: 80
-      protocol: TCP
-      nodePort: 30002
   selector:
     app: wordpress
     tier: frontend
