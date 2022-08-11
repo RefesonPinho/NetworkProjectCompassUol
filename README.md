@@ -1,73 +1,37 @@
-# C**ompass.uol sprint 6**
+Projeto final Sprint:Linux com Redes
 
+PB CompassUol
 
+Estagiario: Refeson dos Santos Pinho
 
-# **Bolsistas** <br>
-[Kaiana Miguel De Medeiros](https://github.com/kaianamiguel); <br>
-[Lucas Freiberger de Souza](https://github.com/lucasfrei); <br>
-[Refeson Dos Santos Pinho](https://github.com/RefesonPinho)
+🎯 Metas a serem entregues:
 
+📝 Instruções:
 
+1.Subir uma segunda VM (seguindo as mesmas regras da atividade anterior);
 
-## Objetivo
+2.Mudar a VLAN das 2 para BRIGDE e fazer os ajustes necessarios;
 
+3.Criar uma apresentação de slides com 1 slide para cada um dos topicos:
 
-Desenvolver, com o apoio dos instrutores e scrums master, as habilidades com a tecnologia de kubernetes. E assim melhor a relação entre colegas e aprimorar a capacidade de lidar e solucionar os problemas.
+3.1 - O que faz o comando systemctl docker status?
 
-Ao final, fazer um deploy do wordpress vinculando ao banco de dados mysql através do kubernet  
+3.2 - Onde esta localizado o arquivo de configuração da placa de rede?
 
-## **Requisitos**
+3.3 - Qual o comando usado para conectar em outro servidor?
 
+3.4 - O que faz o comando rmdir?
 
-[RNF-01] Crie um namespace chamado labwordpress, tudo o que for feito deverá estar dentro deste namespace;
+4.Configurar a relação de confiança entre as duas VMs;
 
-[RNF-02] Faça o apply do arquivo de service do MySQL mude a porta padrão do banco MySQL para 3308;
+5.Fazer o versionamento da atividade;
 
-[RNF-03] Crie o arquivo secret que deverá conter o password do banco MySQL, lembre-se de criar uma senha com fortes padrões de segurança;
+6.Fazer a documentação explicando o processo de instalação do Linux.
 
-[RNF-04] Faça o apply do arquivo de PersistentVolumeClaim do MySQL para um capacity de 3GB;
+🐧 Documentação da Instalação do Linux [Documentação Instalação Oracle Linux.pdf](https://github.com/RefesonPinho/SecondProjectCompassUol/files/9169147/Documentacao.Instalacao.Oracle.Linux.pdf)
 
-[RNF-05] Faça o apply do arquivo de deployment do MySQL, crie também um volume mount no deployment do MySQL chamado “mysql-persistent-storagelab", apontando para /var/lib/mysql. Lembre-se de criar o volume em si com o mesmo nome do volume mount;
+📝LINK da primeira atividade: [https://github.com/RefesonCompassUol](https://github.com/RefesonCompassUol)
 
-[RNF-06] Faça o apply do arquivo de service do Wordpress altere para a TCP Port 80;
-
-[RNF-07] Faça o apply do arquivo de PersistentVolumeClaim do Wordpress, para um capacity de 3GB;
-
-[RNF-08] No arquivo de deployment do Wordpress, crie um volume mount no deployment do Wordpress chamado “wordpresspersistent-storage-lab", apontando para /var/www/html. Lembre-se de criar o volume em si com o mesmo nome do volume mount;
-
-[RNF-09] No arquivo de deployment do wordpress, insira o secret contendo o password do MySQL, criado no começo do exercício.
-
-[RNF-10] Faça o apply do arquivo de deployment do wordpress;
-
-[RNF-11] Verifque se os pods, os services e os pvcs foram criados da forma correta dentro namespace criado no início deste exercício;
-
-[RNF-12] Verifique qual foi a URI gerada através do ingress do Kubernetes;
-
-[RNF-13] Copie essa URI do Ingress e cole no browser para abrir a tela inicial do wordpress
-
-[RNF-14] Criar documentação
-
----
-
-[RNF-15] Poderá ser feito na VM instalando o Minikube, ou via
-Docker for Windows
-
----
-
-# **Entrega**
-
-- A entrega será durante o horário da primeira daily (quinta-feira, 11 de agosto de 2022, 14:30 gtm3)
-- Com o link do versionamento e documentação
-
-
-
-# **Ferramentas**
-
-- GIT.
-- GITHUB
-- VIRTUALBOX
-- DOCKER
-- MINIKUBE
-
+📝Link da Apresentação: [Apresentação Final Sprint.pptx](https://github.com/RefesonPinho/SecondProjectCompassUol/files/9172536/Apresentacao.Final.Sprint.pptx)
 
 
