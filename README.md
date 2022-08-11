@@ -1,14 +1,13 @@
 # C**ompass oul sprint 6**
 
----
+
 
 # **Bolsistas: Kaiana Miguel De Medeiros, Lucas Freiberger de Souza e Refeson Dos Santos Pinho**
 
----
+
 
 ## Objetivo
 
----
 
 Desenvolver, com o apoio dos instrutores e scrums master, as habilidades com a tecnologia de kubernetes. E assim melhor a relação entre colegas e aprimorar a capacidade de lidar e solucionar os problemas.
 
@@ -16,7 +15,6 @@ Ao final, fazer um deploy do wordpress vinculando ao banco de dados mysql atrav�
 
 ## **Requisitos**
 
----
 
 [RNF-01] Crie um namespace chamado labwordpress, tudo o que for feito deverá estar dentro deste namespace;
 
@@ -58,7 +56,7 @@ Docker for Windows
 - A entrega será durante o horário da primeira daily (quinta-feira, 11 de agosto de 2022, 14:30 gtm3)
 - Com o link do versionamento e documentação
 
----
+
 
 # **Ferramentas**
 
