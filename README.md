@@ -1,8 +1,11 @@
-# C**ompass oul sprint 6**
+# C**ompass.uol sprint 6**
 
 
 
-# **Bolsistas: Kaiana Miguel De Medeiros, Lucas Freiberger de Souza e Refeson Dos Santos Pinho**
+# **Bolsistas** <br>
+[Kaiana Miguel De Medeiros](https://github.com/kaianamiguel); <br>
+[Lucas Freiberger de Souza](https://github.com/lucasfrei); <br>
+[Refeson Dos Santos Pinho](https://github.com/RefesonPinho)
 
 
 
