@@ -2,8 +2,7 @@
 
 Neste repositório contem todas as etapas das entregas do Projeto:
 
-## 1° Entrega - Atividade em grupo
-Entrega final da Sprint: Grupo 6- Atividade prática no desenvolvimento da trilha de Certificação LPI Linux Essentials e Docker.
+## 1° Entrega - Atividade em grupo - Docker e conhecimentos de comandos Linux.
 
 ### 🎯 Metas a serem entregues:
 📝 Instruções:
@@ -40,10 +39,8 @@ Entrega final da Sprint: Grupo 6- Atividade prática no desenvolvimento da trilh
 https://github.com/RefesonCompassUol/LabDockerNodeJs
 
 
+## 2° Entrega - Atividade individual - Conhecimento de Linux e Network
 
-## 2° Entrega - Atividade individual
-
-Entrega final da Sprint: Linux com Redes
 
 ## 🎯 Metas a serem entregues:
 
@@ -74,8 +71,8 @@ Entrega final da Sprint: Linux com Redes
 📝Link da Apresentação: [Apresentação Final Sprint.pptx](https://github.com/RefesonPinho/SecondProjectCompassUol/files/9172536/Apresentacao.Final.Sprint.pptx)
 
 
-## 3° Entrega - Atividade em grupo
-Entrega final da Sprint: Trilha: KUBERNETES
+## 3° Entrega - Atividade em grupo - Kubernetes
+
 
 ## 🎯 Metas a serem entregues:
 - 1 - Crie um namespace chamado labwordpress, tudo o que for feito deverá estar dentro deste namespace;
