@@ -36,7 +36,7 @@ Neste repositório contem todas as etapas das entregas do Projeto:
 
 📝LINK da primeira atividade com mais detalhes: 
 
-https://github.com/RefesonPinho/LabDockerNodeJs
+https://github.com/RefesonCompassUol/LabDockerNodeJs
 
 https://github.com/RefesonPinho/NetworkProjectCompassUol/tree/main/Servidor2
 
