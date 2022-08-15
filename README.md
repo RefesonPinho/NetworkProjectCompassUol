@@ -39,7 +39,7 @@ Neste repositório contem todas as etapas das entregas do Projeto:
 https://github.com/RefesonCompassUol/LabDockerNodeJs
 
 
-## 2° Entrega - Atividade individual - Conhecimento de Linux e Network
+## 2° Entrega - Atividade individual - Conhecimento de comandos Linux e Network
 
 
 ## 🎯 Metas a serem entregues:
