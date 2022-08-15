@@ -66,6 +66,10 @@ https://github.com/RefesonCompassUol/LabDockerNodeJs
 
 - 6 -Fazer a documentação explicando o processo de instalação do Linux.
 
+📝Link da atividade dois com mais detalhes:
+
+https://github.com/RefesonPinho/NetworkProjectCompassUol/tree/main/Servidor2
+
 🐧 Documentação da Instalação do Linux
 
 [Documentacao.Instalacao.Oracle.Linux.pdf](https://github.com/RefesonPinho/NetworkProjectCompassUol/files/9338255/Documentacao.Instalacao.Oracle.Linux.pdf)
