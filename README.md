@@ -66,9 +66,14 @@ https://github.com/RefesonCompassUol/LabDockerNodeJs
 
 - 6 -Fazer a documentação explicando o processo de instalação do Linux.
 
-🐧 Documentação da Instalação do Linux [Documentação Instalação Oracle Linux.pdf](https://github.com/RefesonPinho/SecondProjectCompassUol/files/9169147/Documentacao.Instalacao.Oracle.Linux.pdf)
+🐧 Documentação da Instalação do Linux
 
-📝Link da Apresentação: [Apresentação Final Sprint.pptx](https://github.com/RefesonPinho/SecondProjectCompassUol/files/9172536/Apresentacao.Final.Sprint.pptx)
+[Documentacao.Instalacao.Oracle.Linux.pdf](https://github.com/RefesonPinho/NetworkProjectCompassUol/files/9338255/Documentacao.Instalacao.Oracle.Linux.pdf)
+
+📝Link da Apresentação: 
+
+[Apresentacao.Final.Sprint.pptx](https://github.com/RefesonPinho/NetworkProjectCompassUol/files/9338235/Apresentacao.Final.Sprint.pptx)
+
 
 
 ## 3° Entrega - Atividade em grupo - Kubernetes
