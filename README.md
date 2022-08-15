@@ -109,7 +109,7 @@ https://github.com/RefesonCompassUol/LabDockerNodeJs
 
 - 14 - Criar documentação
 
-📝Link da terceira atividade com mais detalhes:
+📝Link da terceira atividade com os arquivos YAML usados no Cluster Kubernetes:
 
 https://github.com/RefesonPinho/NetworkProjectCompassUol/tree/main/Servidor2/Kubernetes
 
