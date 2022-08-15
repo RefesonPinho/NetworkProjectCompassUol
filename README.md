@@ -75,6 +75,7 @@ https://github.com/RefesonCompassUol/LabDockerNodeJs
 
 
 ## 🎯 Metas a serem entregues:
+📝 Instruções:
 - 1 - Crie um namespace chamado labwordpress, tudo o que for feito deverá estar dentro deste namespace;
 
 - 2 - Faça o apply do arquivo de service do MySQL mude a porta padrão do banco MySQL para 3308;
