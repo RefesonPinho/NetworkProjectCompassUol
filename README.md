@@ -34,7 +34,7 @@ Neste repositório contem todas as etapas das entregas do Projeto:
 - 13 - instalar uma imagem da aplicação nodejs e suba um wordpress neste nodejs. Via docker; 
 
 
-📝LINK da primeira atividade com mais detalhes: 
+📝LINKS da primeira atividade com mais detalhes: 
 
 https://github.com/RefesonCompassUol/LabDockerNodeJs
 
