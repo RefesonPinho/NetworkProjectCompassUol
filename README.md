@@ -124,20 +124,12 @@ https://github.com/RefesonPinho/NetworkProjectCompassUol/tree/main/Servidor2/Kub
 Esse projeto teve como finalidade trabalhar em cima de um case que traz a realidade do dia a dia do trabalho em Cloud e DevOps.
 ## 🎯 Case:
 
-Case: Nós somos da empresa "Fast Engineering S/A" e
-gostaríamos de requisitar uma agenda com os senhores(as)
-da empresa terceira "TI SOLUÇÕES INCRÍVEIS", sobre a
-construção de uma arquitetura para o futuro website da
-nossa empresa, precisamos seguir as melhores práticas
-DevOps. Queremos alta disponibilidade, resiliência e
+Nós somos da empresa "Fast Engineering S/A" e gostaríamos de requisitar uma agenda com os senhores(as) da empresa terceira "TI SOLUÇÕES INCRÍVEIS", sobre a
+construção de uma arquitetura para o futuro website da nossa empresa, precisamos seguir as melhores práticas DevOps. Queremos alta disponibilidade, resiliência e
 backups.
 
-Objetivo: Monte a documentação do projeto, a topologia, a
-arquitetura, o escopo do que será feito e quem é o
-responsável de cada task e o responsável do projeto (P.O),
-horas trabalhadas de cada profissional em cada task, trazer o
-deadline do projeto, os milestones segmentados e vender a
-ideia. Lembre-se: Nós somos clientes, não vamos comprar o
-projeto se não ficarmos satisfeitos
+Objetivo: 
+Monte a documentação do projeto, a topologia, a arquitetura, o escopo do que será feito e quem é o responsável de cada task e o responsável do projeto (P.O),
+horas trabalhadas de cada profissional em cada task, trazer o deadline do projeto, os milestones segmentados e vender aideia. Lembre-se: Nós somos clientes, não vamos comprar o projeto se não ficarmos satisfeitos.
 
 
