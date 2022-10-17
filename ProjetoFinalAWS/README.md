@@ -15,5 +15,5 @@
 
   Veja as versões da  arquitetura com mais detalhes nesse link: https://github.com/RefesonPinho/NetworkProjectCompassUol/tree/main/ProjetoFinalAWS/Arquitetura
   
-  - 4 - 
+- 4 - 
 
