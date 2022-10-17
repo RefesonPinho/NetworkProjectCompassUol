@@ -6,9 +6,9 @@
 📝-  Documentação do Projeto: Link
 [Documentação TI Soluções Incríveis.docx](https://github.com/RefesonPinho/NetworkProjectCompassUol/files/9804103/Documentacao.TI.Solucoes.Incriveis.docx)
 
-- 2 - Topologia - Desenvolvimento de versões que foram melhoradas a cada reunião com o cliente.
-https://github.com/RefesonPinho/NetworkProjectCompassUol/tree/main/ProjetoFinalAWS/Topologia
+- 2 - Topologia de rede - Versões da topologia que foram desenvolvidas ao longo das reuniões com o cliente.
+Veja com mais detalhes nesse link: https://github.com/RefesonPinho/NetworkProjectCompassUol/tree/main/ProjetoFinalAWS/Topologia
 
-- 3 - Arquitetura - Desenvolvimento de versões que foram melhoradas a cada reunião com o cliente.
-https://github.com/RefesonPinho/NetworkProjectCompassUol/tree/main/ProjetoFinalAWS/Arquitetura
+- 3 - Arquitetura - Versões da arquitetura que foram desenvolvidas ao longo das reuniões com o cliente.
+Veja com mais detalhes nesse link: https://github.com/RefesonPinho/NetworkProjectCompassUol/tree/main/ProjetoFinalAWS/Arquitetura
 
