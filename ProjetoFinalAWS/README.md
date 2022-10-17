@@ -8,10 +8,12 @@
 
 - 2 - Topologia de rede - Versões da topologia que foram desenvolvidas ao longo das reuniões com o cliente.
 
-  Veja as versãoes da topologia com mais detalhes nesse link: https://github.com/RefesonPinho/NetworkProjectCompassUol/tree/main/ProjetoFinalAWS/Topologia
+  Veja as versões da topologia com mais detalhes nesse link: https://github.com/RefesonPinho/NetworkProjectCompassUol/tree/main/ProjetoFinalAWS/Topologia
 
 
 - 3 - Arquitetura - Versões da arquitetura que foram desenvolvidas ao longo das reuniões com o cliente.
 
-Veja as versões da  arquitetura com mais detalhes nesse link: https://github.com/RefesonPinho/NetworkProjectCompassUol/tree/main/ProjetoFinalAWS/Arquitetura
+  Veja as versões da  arquitetura com mais detalhes nesse link: https://github.com/RefesonPinho/NetworkProjectCompassUol/tree/main/ProjetoFinalAWS/Arquitetura
+  
+  - 4 - 
 
