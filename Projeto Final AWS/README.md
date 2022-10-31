@@ -9,7 +9,9 @@
 https://site165331.nicepage.io/?version=6dd8e797-1b9b-4493-bf3a-804d80e5803c&uid=a1152040-3004-4a30-acd6-d035a2012360
 
 ## Equipe e tarefas:
-![Equipe](https://user-images.githubusercontent.com/89049212/199045697-e02ad8aa-0b11-4a0b-b389-5cdec4eb1828.jpg)
+![Equipe](https://user-images.githubusercontent.com/89049212/199052849-37a4454b-add6-4bdb-a821-5f56a5e39b06.jpg)
+
+
 
 ## Sistema atual do cliente Fast Enginnering S/A x Sistema proposto pela nossa empresa e os ganhos:
 
