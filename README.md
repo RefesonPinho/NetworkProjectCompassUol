@@ -125,8 +125,11 @@ Esse projeto teve como finalidade trabalhar em cima de um case que traz a realid
 ## 🎯 Case:
 
 Nós somos da empresa "Fast Engineering S/A" e gostaríamos de requisitar uma agenda com os senhores(as) da empresa terceira "TI SOLUÇÕES INCRÍVEIS", sobre a
-construção de uma arquitetura para o futuro website da nossa empresa, precisamos seguir as melhores práticas DevOps. Queremos alta disponibilidade, resiliência e
-backups.
+construção de uma arquitetura para o futuro website da nossa empresa, precisamos seguir as melhores práticas DevOps.
+## Queremos: 
+- Alta disponibilidade
+ - Resiliência
+ - Backups.
 
 Objetivo: 
 Monte a documentação do projeto, a topologia, a arquitetura, o escopo do que será feito e quem é o responsável de cada task e o responsável do projeto (P.O),
