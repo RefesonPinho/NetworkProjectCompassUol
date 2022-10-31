@@ -8,8 +8,10 @@
 ## Site da nossa empresa:
 https://site165331.nicepage.io/?version=6dd8e797-1b9b-4493-bf3a-804d80e5803c&uid=a1152040-3004-4a30-acd6-d035a2012360
 
-## Time e tarefas no projeto:
+## Time e tarefas:
 ![Equipe](https://user-images.githubusercontent.com/89049212/199045697-e02ad8aa-0b11-4a0b-b389-5cdec4eb1828.jpg)
+
+
 
 
 
