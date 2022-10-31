@@ -1,3 +1,7 @@
+## Slogan da nossa Empresa:
+![image](https://user-images.githubusercontent.com/89049212/199023227-0ec30a7f-13c0-42ab-a538-e32a085d2ddf.png)
+
+
 ## 4° Entrega - Atividade em grupo - Projeto Cloud Provider AWS
 
 ## 🎯 Objetivo
