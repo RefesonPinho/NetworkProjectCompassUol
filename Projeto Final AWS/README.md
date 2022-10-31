@@ -13,7 +13,7 @@ https://site165331.nicepage.io/?version=6dd8e797-1b9b-4493-bf3a-804d80e5803c&uid
 
 
 
-## Site e intranet atual do cliente Fast Enginnering S/A x Site e intranet propost por nossa empresa na Cloud Provider AWS e seus ganhos:
+## Site e intranet atual do cliente Fast Enginnering S/A x Site e intranet propost por nossa empresa:
 
 ![SistemaAtualxSistemaCloudAWS](https://user-images.githubusercontent.com/89049212/199051612-6c49c66a-f0f9-4334-812a-1cd1078bcc96.jpg)
 
