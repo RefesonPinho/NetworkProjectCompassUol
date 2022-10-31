@@ -17,6 +17,9 @@ https://site165331.nicepage.io/?version=6dd8e797-1b9b-4493-bf3a-804d80e5803c&uid
 
 ![SistemaAtualxSistemaCloudAWS](https://user-images.githubusercontent.com/89049212/199056956-0d1cade0-6a58-45ff-9937-ab466857b9a2.jpg)
 
+![image](https://user-images.githubusercontent.com/89049212/199064317-c9c0b512-06c7-42bd-8169-063a9478a6d7.png)
+
+
 
 
 
