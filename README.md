@@ -120,7 +120,7 @@ https://github.com/RefesonPinho/NetworkProjectCompassUol/tree/main/Servidor2
 https://github.com/RefesonPinho/NetworkProjectCompassUol/tree/main/Servidor2/Kubernetes
 
 
-## 4° Entrega - Atividade em grupo - Projeto Cloud Provider AWS
+## Projeto Final-  Atividade em grupo - Projeto Cloud Provider AWS
 Esse projeto teve como finalidade trabalhar em cima de um case que traz a realidade do dia a dia do trabalho em Cloud e DevOps.
 ## 🎯 Case:
 
