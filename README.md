@@ -131,7 +131,7 @@ construção de uma arquitetura para o futuro website da nossa empresa, precisam
  - Resiliência
  - Backups.
 
-Objetivo: 
+## Objetivo: 
 Monte a documentação do projeto, a topologia, a arquitetura, o escopo do que será feito e quem é o responsável de cada task e o responsável do projeto (P.O),
 horas trabalhadas de cada profissional em cada task, trazer o deadline do projeto, os milestones segmentados e vender aideia. Lembre-se: Nós somos clientes, não vamos comprar o projeto se não ficarmos satisfeitos.
 
