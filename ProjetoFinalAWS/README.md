@@ -40,5 +40,5 @@ https://site165331.nicepage.io/?version=6dd8e797-1b9b-4493-bf3a-804d80e5803c&uid
 
   Veja as versões da  arquitetura com mais detalhes nesse link: https://github.com/RefesonPinho/NetworkProjectCompassUol/tree/main/ProjetoFinalAWS/Arquitetura
   
-- 4 - 
+
 
