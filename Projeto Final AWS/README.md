@@ -9,7 +9,7 @@
 https://site165331.nicepage.io/?version=6dd8e797-1b9b-4493-bf3a-804d80e5803c&uid=a1152040-3004-4a30-acd6-d035a2012360
 
 
-## 🎯 Objet
+## 🎯 Objetivos entregues a nosso cliente Fast Enginnering S/A
 
 - 1 -
 📝-  Documentação do Projeto: Link
